@@ -1,8 +1,9 @@
 body{
+    color: white
     background-color: rgba(224, 206, 43, 0.555);
-    color: white;
-}
+     margin: 0px;
+}  
 header{
 
     border-bottom: solid 2px color(srgb rgb(197, 133, 15)   
-} 
+} padding: 20px;
