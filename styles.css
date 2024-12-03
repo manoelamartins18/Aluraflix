@@ -1,9 +1,13 @@
 body{
     color: rgb(221, 184, 115)
     background-color: rgba(224, 206, 43, 0.555);
-     margin: 0px;
-}  
+    margin: 0px;
+}
+
 header{
 
     border-bottom: solid 2px  color(srg rgb(214, 168, 67))   
-} padding: 20px;
+    border - bottom: solid 2px color srgb(221,184,115);
+    padding: 20px;
+    font - size: 32px;
+    color: rgb (222,183,114); 
